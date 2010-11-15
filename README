@@ -2,7 +2,7 @@ Scoop is a simple Ruby on Rails application for story link submissions.
 
 It has an authentication component for story and comment submissions.
 
-It has some AJAX assests.
+It has some AJAX assets.
 
 Scoop is a proof of concept demonstration application based on a tutorial
 by Patrick Lenz.
