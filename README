@@ -4,5 +4,8 @@ It has an authentication component for story and comment submissions.
 
 It has some AJAX assets.
 
-Scoop is a proof of concept demonstration application based on a tutorial
-by Patrick Lenz.
+Scoop is a proof of concept application.
+
+You can see it on heroku.
+
+http://blazing-water-749.heroku.com
